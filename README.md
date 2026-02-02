@@ -3,4 +3,4 @@
 </p>
 <h1>TrashIt</h1>
 <p>A Minecraft Bukkit plugin for 1.21.11</p>
-<p href="google.com">Download on Curseforge!</p>
+<p>Download on [Curseforge!](https://google.com)</p>
